@@ -8,3 +8,7 @@
 .idea/vcs.xml
 
 poor-man-siri.iml
+
+.idea/uiDesigner.xml
+
+*.class
