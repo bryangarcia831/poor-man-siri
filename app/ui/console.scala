@@ -5,7 +5,6 @@
 package ui
 
 import values._
-import utilties.parsers._
 
 object console {
   val parsers = new Parsers
